@@ -28,11 +28,7 @@ const Index = () => {
   );
 
   // Links for Header
-  const headerLinks = [
-    { link: "/", title: "Home" },
-    { link: "/about", title: "About" },
-    { link: "/contact", title: "Contact" },
-  ];
+  const headerLinks = [{ link: "/", title: "Home" }];
 
   return (
     <>
